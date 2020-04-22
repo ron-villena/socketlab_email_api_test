@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c09d8100ba7df279ab42d35950b848ef703d9ceee0651afd4bdc68b6e484dcaa"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "socketlabs-injectionapi": {
+            "hashes": [
+                "sha256:0cb6840057831485802e06ea8ad9a8632161f52eaa088aa04364e769b13f491a"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
+        }
+    },
+    "develop": {}
+}
